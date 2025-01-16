@@ -12,4 +12,4 @@ for evt in eventReader.run():
     channelIceNoiseAdder.run(evt, station, det,ice,ice_model)
 ```
 
-[presentation on June 16,2022] (https://uppsala.app.box.com/s/oyldlu31cpd9f9sxwpph5v4yrqj62ro9/file/972598595154)
+[presentation on June 16,2022](https://uppsala.app.box.com/s/oyldlu31cpd9f9sxwpph5v4yrqj62ro9/file/972598595154)
